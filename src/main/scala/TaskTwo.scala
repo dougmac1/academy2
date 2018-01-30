@@ -4,4 +4,6 @@ object TaskTwo extends App{
 
   println(x)
 
+  println("test"*3)
+
 }

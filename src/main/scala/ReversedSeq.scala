@@ -4,5 +4,5 @@ object ReversedSeq extends App {
     val x = (0 to Number).toList.reverse
     x
   }
-println(makeList(5))
+println(makeList(50))
 }
